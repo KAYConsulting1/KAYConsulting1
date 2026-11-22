@@ -6,10 +6,12 @@ I care about software that busy people actually use: simple screens, fast pages,
 
 ### 🚚 What I'm building
 
-- **[Fragtcentralen](https://fragtcentralen.com)** — a Nordic freight exchange for hauliers, forwarders and warehouses: road, sea, air, rail and courier in one market, plus a dispatch system with tour planning, fleet and trailer schedules, invoicing and settlement, and a market overview built on open data from Statistics Denmark.
-- **[LVT Transport](https://lvttransport.dk)** — the digital platform behind an international transport company: customer portal, trucking portal, driver app, GPS tracking and 3D load planning.
-- **[BestMotors.dk](https://bestmotors.dk)** — a Danish webshop for ATVs, crossbikes, e-scooters and spare parts, with parts lookup by vehicle model.
-- **[keremaydin.dk](https://keremaydin.dk)** — my consulting website in Danish and English, with a price calculator and online booking.
+- **Fragtcentralen** — a Nordic freight exchange for hauliers, forwarders and warehouses: road, sea, air, rail and courier in one market, plus a dispatch system with tour planning, fleet and trailer schedules, invoicing and settlement, and a market overview built on open data from Statistics Denmark.
+- **LVT Transport** — the digital platform behind an international transport company: customer portal, trucking portal, driver app, GPS tracking and 3D load planning.
+- **BestMotors.dk** — a Danish webshop for ATVs, crossbikes, e-scooters and spare parts, with parts lookup by vehicle model.
+- **keremaydin.dk** — my consulting website in Danish and English, with a price calculator and online booking.
+
+More about my work and cases on **[keremaydin.dk](https://keremaydin.dk)**.
 
 ### 🛠️ What I code in
 
@@ -43,6 +45,6 @@ Trained freight forwarder. Sales, marketing and business development across tran
 
 ### 📫 Get in touch
 
-🌐 [keremaydin.dk](https://keremaydin.dk) · 🚚 [fragtcentralen.com](https://fragtcentralen.com) · 📍 Copenhagen, Denmark
+🌐 [keremaydin.dk](https://keremaydin.dk) · 📍 Copenhagen, Denmark
 
 <sub>Source code for client and company projects is private.</sub>
