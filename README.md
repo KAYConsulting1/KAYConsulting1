@@ -17,29 +17,7 @@ Cases and services: [keremaydin.dk](https://keremaydin.dk)
 
 ## Technology
 
-| Area | Tools |
-|---|---|
-| Languages | PHP, JavaScript, HTML and CSS, SQL, Python |
-| Databases | MySQL, SQLite |
-| Front end | Vanilla JavaScript, responsive CSS, SVG charts |
-| Maps and data | Google Maps Platform, Leaflet, OpenStreetMap, Statistics Denmark API, ECB exchange rates |
-| Testing and build | Playwright end-to-end tests (Node.js), Python build pipeline |
-| Hosting and operations | Linux/Apache, Cloudflare, DNSSEC, scheduled jobs, automatic backups |
-| Security | Two-factor authentication (TOTP), rate limiting, audit logs, GDPR |
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" title="PHP" width="36" height="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="36" height="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="36" height="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="36" height="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="36" height="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="36" height="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="36" height="36"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36"/>
-</p>
+PHP, JavaScript and Python, hosted in the EU.
 
 ## Background
 
