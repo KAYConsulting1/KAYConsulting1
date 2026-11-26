@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/tools.svg" alt="Kerem Aydin – IT consultant at KAY Consulting, Copenhagen – and the tools he uses" width="100%"></p>
+
 # Kerem Aydin
 
 **IT consultant and business owner – KAY Consulting, Copenhagen**
@@ -15,9 +17,12 @@ My approach is practical: simple screens for busy people, fast pages, solid secu
 
 Cases and services: [keremaydin.dk](https://keremaydin.dk)
 
-## Technology
+## Tools I use
 
-PHP, JavaScript and Python, hosted in the EU.
+- **Design and content:** Canva, Figma, CapCut
+- **Marketing and sales:** Meta Ads, Google Ads, Google Analytics, Metricool, Shopify
+- **Operations and teamwork:** Trello, Notion, Discord, Microsoft 365
+- **AI and development:** Claude, ChatGPT, Visual Studio Code, Git, GitHub, FileZilla, WinSCP, MySQL, PHP, JavaScript and Python – hosted in the EU
 
 ## Background
 
